@@ -12,6 +12,7 @@
 
 ## 📌 Projects
 - **College Event Management System**: [Link to GitHub/Live Demo](https://event-mang-app.vercel.app/)
+- **Timetable Management System**: [Link to GitHub/Live Demo](https://time-table-management-one.vercel.app/)
 
 ## 🌐 Connect With Me
 - **GitHub:** [@saadmehmood](https://github.com/Saadmehmood1234)
