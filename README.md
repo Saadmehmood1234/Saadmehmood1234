@@ -39,9 +39,15 @@
 
 ### College Event Management System
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Event_Mgmt_App-green?style=for-the-badge)](https://event-mang-app.vercel.app/)
-- **Tech:** MERN Stack (MongoDB, Express, React, Node.js)
+- **Tech:** MERN Stack (MongoDB, Express, React, Node.js,Nextjs)
 - Role-based access control for students/staff
 - Real-time event updates & registration system
+  
+### Sport Event For College
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Sport-Event-green?style=for-the-badge)](https://spardha-25.vercel.app/)
+- **Tech:** MERN Stack (MongoDB, Express, React, Node.js,Nextjs)
+- Role-based access control for students/staff
+- Real-time sport event updates & registration system
 
 ### Realtime Chat Application
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Chat_App-blue?style=for-the-badge)](https://chatapp-mqcy.onrender.com/)
