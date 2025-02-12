@@ -39,35 +39,35 @@
 
 ### College Event Management System
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Event_Mgmt_App-green?style=for-the-badge)](https://event-mang-app.vercel.app/)
-- **Tech:** MERN Stack (MongoDB, Express, React, Node.js,Nextjs)
-- Role-based access control for students/staff
-- Real-time event updates & registration system
-  
-### Sport Event For College
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Sport-Event-green?style=for-the-badge)](https://spardha-25.vercel.app/)
-- **Tech:** MERN Stack (MongoDB, Express, React, Node.js,Nextjs)
-- Role-based access control for students/staff
-- Real-time sport event updates & registration system
+- **Tech:** MERN Stack + Next.js (MongoDB, Express, React, Node.js, Next.js)
+- Role-based access control with student/staff privileges
+- Real-time updates & automated email notifications
+
+### College Sports Event Platform
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Sports_Event_Platform-blue?style=for-the-badge)](https://spardha-25.vercel.app/)
+- **Tech:** MERN Stack + Next.js (MongoDB, Express, React, Node.js, Next.js)
+- Tournament management system with bracket generation
+- Live score updates & participant tracking
 
 ### Realtime Chat Application
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Chat_App-blue?style=for-the-badge)](https://chatapp-mqcy.onrender.com/)
 - **Tech:** Socket.io, React, Node.js
-- Instant messaging with message history
-- User presence indicators & typing status
+- Message persistence with MongoDB storage
+- Real-time typing indicators & online status
 
 ### Timetable Management System
 [![GitHub](https://img.shields.io/badge/Source_Code-Timetable_System-black?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/time-table-management)
-- Dynamic timetable generator for colleges
-- Conflict detection & resolution system
-- Export/import functionality using CSV
+- AI-powered conflict detection system
+- Multi-classroom scheduling optimization
+- PDF export functionality
 
 ## 📬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadmehmood1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-mehmood-4a6036255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://portfo-tan-eta.vercel.app/)) *(Coming Soon!)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfo-tan-eta.vercel.app/)
 
-💌 **Reach me directly:** mehmoodsaad347@email.com
+💌 **Reach me directly:** mehmoodsaad347@gmail.com
 
 ---
 
