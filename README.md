@@ -59,9 +59,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadmehmood1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-mehmood-4a6036255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saadmehmood.vercel.app/) *(Coming Soon!)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://portfo-tan-eta.vercel.app/)) *(Coming Soon!)*
 
-💌 **Reach me directly:** saadmehmoodofficial@email.com
+💌 **Reach me directly:** mehmoodsaad347@email.com
 
 ---
 
