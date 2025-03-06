@@ -56,7 +56,7 @@
 - Real-time typing indicators & online status
 
 ### Timetable Management System
-[![GitHub](https://img.shields.io/badge/Source_Code-Timetable_System-black?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/time-table-management)
+[![GitHub](https://img.shields.io/badge/Source_Code-Timetable_System-black?style=for-the-badge&logo=github)]([(https://time-table-management-jet.vercel.app/)])
 - AI-powered conflict detection system
 - Multi-classroom scheduling optimization
 - PDF export functionality
