@@ -18,34 +18,41 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-14-000000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-20-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-7.0-47A248?logo=mongodb&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth.js-000000?logo=auth0&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white)
 
 ## 🚀 Featured Projects
 
+### Event Booking System 🎉
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Event_Booking-green?style=for-the-badge)](https://event-booking.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-Event_Booking-black?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/event-booking)
+- **Tech:** Next.js 14, Tailwind CSS, MongoDB, Framer Motion, NextAuth
+- Multi-service booking (Weddings, Catering, Birthdays)
+- Real-time availability checking & interactive calendar
+- Secure payment integration with Stripe
+- Role-based access control (User/Admin)
+- Animated UI transitions & drag-and-drop features
+
 ### College Event Management System
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Event_Mgmt_App-green?style=for-the-badge)](https://event-mang-app.vercel.app/)
-- **Tech:** MERN Stack + Next.js (MongoDB, Express, React, Node.js, Next.js)
+- **Tech:** MERN Stack + Next.js
 - Role-based access control with student/staff privileges
 - Real-time updates & automated email notifications
 
 ### College Sports Event Platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Sports_Event_Platform-blue?style=for-the-badge)](https://spardha-25.vercel.app/)
-- **Tech:** MERN Stack + Next.js (MongoDB, Express, React, Node.js, Next.js)
+- **Tech:** MERN Stack + Next.js
 - Tournament management system with bracket generation
 - Live score updates & participant tracking
 
@@ -54,12 +61,6 @@
 - **Tech:** Socket.io, React, Node.js
 - Message persistence with MongoDB storage
 - Real-time typing indicators & online status
-
-### Timetable Management System
-[![GitHub](https://img.shields.io/badge/Source_Code-Timetable_System-black?style=for-the-badge&logo=github)](https://time-table-management-jet.vercel.app/)
-- AI-powered conflict detection system
-- Multi-classroom scheduling optimization
-- PDF export functionality
 
 ## 📬 Let's Connect!
 
