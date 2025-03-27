@@ -66,7 +66,16 @@
 - **Tech:** Socket.io, React, Node.js
 - Message persistence with MongoDB storage
 - Real-time typing indicators & online status
-
+  
+### InvoiceEase - Admin Panel 📑
+[![Live Demo](https://img.shields.io/badge/Live_Demo-InvoiceEase-green?style=for-the-badge)](https://utility-software.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-InvoiceEase-black?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/utility-software)
+- **Tech:** Next.js, MongoDB, NextAuth, TypeScript, Tailwind CSS
+- Efficient customer management with GST and meter tracking
+- Rent-based invoice generation with automated calculations
+- GST split (CGST/SGST 9% each) and IGST (18%) support
+- Secure authentication and role-based access control
+- Responsive UI with clear invoice layout
 ## 📬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadmehmood1234)
