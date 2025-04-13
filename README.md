@@ -39,6 +39,33 @@
 
 ## 🚀 Featured Projects
 
+# 🎮 Tic Toe Game
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-TicToeGame-green?style=for-the-badge)](https://tic-toe-game-gules.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-TicToeGame-black?style=for-the-badge&logo=github)](https://github.com/your-username/your-repo-name)
+
+A fun and beautifully designed Tic Tac Toe game built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It features multiple color themes and a responsive layout, making it perfect for all devices.
+
+---
+
+## ✨ Features
+
+- 🧠 Classic Tic Tac Toe logic with real-time win detection
+- 🎨 Multiple vibrant themes and color schemes
+- 📱 Fully responsive design for desktop and mobile
+- ⚡ Fast and smooth gameplay experience
+- 🧼 Clean and intuitive UI for all age groups
+
+---
+
+## 🚀 Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
 ### Event Booking System 🎉
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Event_Booking-green?style=for-the-badge)](https://mbm-azure.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-Event_Booking-black?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
@@ -76,6 +103,7 @@
 - GST split (CGST/SGST 9% each) and IGST (18%) support
 - Secure authentication and role-based access control
 - Responsive UI with clear invoice layout
+
 ## 📬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadmehmood1234)
@@ -86,4 +114,4 @@
 
 ---
 
-⭐ From [Saad Mehmood](https://github.com/Saadmehmood1234) | Happy Coding! 🚀
+⭐ From [Saad Mehmood](https://github.com/Saadmehmood1234) | Happy Coding! �
