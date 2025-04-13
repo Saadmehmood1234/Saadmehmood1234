@@ -39,6 +39,38 @@
 | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) | ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
+## 🔍 Skills Breakdown
+
+<div align="center">
+  
+| Area          | Proficiency | Key Technologies |
+|---------------|-------------|------------------|
+| Frontend      | ⭐⭐⭐⭐⭐     | React, Next.js, TypeScript |
+| Backend       | ⭐⭐⭐⭐☆     | Node.js, Express, MongoDB |
+| UI/UX         | ⭐⭐⭐⭐☆     | Tailwind, Framer Motion |
+| DevOps        | ⭐⭐⭐☆☆     | Vercel, Docker, CI/CD |
+| Problem Solving | ⭐⭐⭐⭐⭐   | Algorithms, Data Structures |
+
+</div>
+
+## 🖼️ Project Gallery
+
+<div align="center">
+  <img src="https://via.placeholder.com/400x225/0D1117/00F718?text=Tic+Tac+Toe" width="30%" alt="Tic Tac Toe"/>
+  <img src="https://via.placeholder.com/400x225/0D1117/00F718?text=MBM+Azure" width="30%" alt="Event Booking"/>
+  <img src="https://via.placeholder.com/400x225/0D1117/00F718?text=Chat+App" width="30%" alt="Chat Application"/>
+</div>
+
+*Hover over images for live preview links*
+
+## 📅 My Coding Activity
+
+<div align="center">
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saadmehmood1234&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
 
 ---
 
@@ -113,7 +145,15 @@
 ---
 
 ## 📬 Let's Build Something Amazing Together!
+## 💡 Let's Collaborate!
 
+I'm always open to:
+- 🤝 **Joint projects** - Let's build something amazing together
+- 💡 **Open-source contributions** - Especially in React/Next.js ecosystem
+- 🎤 **Tech talks & workshops** - Can speak about modern web development
+- 📝 **Technical writing** - Guest posts and tutorials
+
+[![Let's Chat](https://img.shields.io/badge/Let's_Chat-FF6C37?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 <div align="center">
   <a href="https://github.com/Saadmehmood1234">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -141,5 +181,11 @@
 </div>
 
 ---
+## 📈 GitHub Analytics
 
+<div align="center">
+  
+[![Metrics](https://github.com/Saadmehmood1234/Saadmehmood1234/blob/main/github-metrics.svg)](https://github.com/Saadmehmood1234)
+
+</div>
 ⭐ From [Saad Mehmood](https://github.com/Saadmehmood1234) | Keep Coding, Keep Innovating! 🚀
