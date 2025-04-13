@@ -42,7 +42,6 @@
 # 🎮 Tic Toe Game
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-TicToeGame-green?style=for-the-badge)](https://tic-toe-game-gules.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-TicToeGame-black?style=for-the-badge&logo=github)](https://github.com/your-username/your-repo-name)
 
 A fun and beautifully designed Tic Tac Toe game built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It features multiple color themes and a responsive layout, making it perfect for all devices.
 
