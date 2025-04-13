@@ -53,23 +53,7 @@
 
 </div>
 
-## 🖼️ Project Gallery
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x225/0D1117/00F718?text=Tic+Tac+Toe" width="30%" alt="Tic Tac Toe"/>
-  <img src="https://via.placeholder.com/400x225/0D1117/00F718?text=MBM+Azure" width="30%" alt="Event Booking"/>
-  <img src="https://via.placeholder.com/400x225/0D1117/00F718?text=Chat+App" width="30%" alt="Chat Application"/>
-</div>
-
-*Hover over images for live preview links*
-
-## 📅 My Coding Activity
-
-<div align="center">
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saadmehmood1234&theme=react-dark&hide_border=true&area=true)
-
-</div>
 
 
 ---
