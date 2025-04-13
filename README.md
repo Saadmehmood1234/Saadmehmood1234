@@ -103,6 +103,37 @@ A fun and beautifully designed Tic Tac Toe game built with **Next.js**, **TypeSc
 - Secure authentication and role-based access control
 - Responsive UI with clear invoice layout
 
+### Event Booking System 🎉
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Event_Booking-green?style=for-the-badge)](https://mbm-azure.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-Event_Booking-black?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
+
+A comprehensive event booking platform for multiple services with admin dashboard and customer portal.
+
+#### ✨ Key Features
+- **Multi-service Booking**: Weddings, Catering, Birthdays, and more
+- **Role-based Access**: Separate interfaces for admin, staff, and customers
+- **Secure Authentication**: JWT-based login with NextAuth.js
+- **Interactive UI**: Smooth animations with Framer Motion
+- **Real-time Management**: Instant booking updates and notifications
+- **Responsive Design**: Perfectly adapted for all devices
+
+#### 🛠️ Tech Stack
+- **Frontend**: Next.js 14, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB
+- **Authentication**: NextAuth.js with JWT
+- **Styling**: Tailwind CSS with custom animations
+- **State Management**: React Context API
+- **Form Handling**: React Hook Form with validation
+
+#### 📸 Key Pages
+- **Service Selection**: Browse and filter available services
+- **Booking Form**: Detailed service customization
+- **Admin Dashboard**: Manage bookings, users, and services
+- **User Portal**: View booking history and status
+- **Authentication**: Secure login/signup flows
+
+---
+
 ## 📬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadmehmood1234)
