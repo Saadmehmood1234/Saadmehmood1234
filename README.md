@@ -39,6 +39,7 @@
 | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) | ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
+
 ## 🔍 Skills Breakdown
 
 <div align="center">
@@ -52,9 +53,6 @@
 | Problem Solving | ⭐⭐⭐⭐⭐   | Algorithms, Data Structures |
 
 </div>
-
-
-
 
 ---
 
@@ -78,47 +76,45 @@
 
 ---
 
-🎨 Modern Creative Agency Website
-https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github
+### 🎨 Modern Creative Agency Website
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://agency-one-kappa.vercel.app/)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/agency-website)
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5uY2VxY2M3dXJ0Z3ZqYzV6dGZ5Z2xqYzZ4eHp1bGJmNHV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ZJBBG2spVDFyL9Qjq/giphy.gif" width="600" alt="Agency Website Demo"/> </div>
-✨ Key Highlights:
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5uY2VxY2M3dXJ0Z3ZqYzV6dGZ5Z2xqYzZ4eHp1bGJmNHV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ZJBBG2spVDFyL9Qjq/giphy.gif" width="600" alt="Agency Website Demo"/>
+</div>
 
-🌓 Dark/Light Mode: Seamless theme switching with persistent preference
+✨ **Key Highlights:**
+- 🌓 **Dark/Light Mode**: Seamless theme switching with persistent preference
+- ✨ **Micro-Interactions**: 60+ subtle animations for premium feel
+- 📱 **Responsive Magic**: Flawless adaptation from mobile to 4K displays
+- 🚀 **Instant Loads**: 95/100 Lighthouse performance with Next.js optimization
 
-✨ Micro-Interactions: 60+ subtle animations for premium feel
+🛠️ **Tech Stack**: Next.js 14 | Framer Motion | Tailwind CSS | Shadcn UI
 
-📱 Responsive Magic: Flawless adaptation from mobile to 4K displays
+---
 
-🚀 Instant Loads: 95/100 Lighthouse performance with Next.js optimization
+### ✍️ Arabic Calligraphy Showcase
+[![Live Demo](https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://calligraphy-three.vercel.app/)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/calligraphy-website)
 
-🛠️ Tech Stack: Next.js 14 | Framer Motion | Tailwind CSS | Shadcn UI
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V0b3VjZ2J6dGJ6bW5qZ2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J3o8PcYFnqU3JhQKjN/giphy.gif" width="600" alt="Calligraphy Website Demo"/>
+</div>
 
-✍️ Arabic Calligraphy Showcase
-https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github
+✨ **Special Features:**
+- 🖋️ **Interactive Cards**: Hover animations reveal calligraphy details
+- 🌙 **Thematic Design**: Elegant emerald & gold Islamic art aesthetic
+- 📖 **Quranic Focus**: Special tagging system for religious verses
+- 📲 **Touch Optimized**: Perfect swipe experience on mobile devices
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V0b3VjZ2J6dGJ6bW5qZ2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J3o8PcYFnqU3JhQKjN/giphy.gif" width="600" alt="Calligraphy Website Demo"/> </div>
-✨ Special Features:
+🛠️ **Tech Stack**: Next.js 14 | Lucide Icons | Tailwind CSS | Framer Motion
 
-🖋️ Interactive Cards: Hover animations reveal calligraphy details
-
-🌙 Thematic Design: Elegant emerald & gold Islamic art aesthetic
-
-📖 Quranic Focus: Special tagging system for religious verses
-
-📲 Touch Optimized: Perfect swipe experience on mobile devices
-
-🛠️ Tech Stack: Next.js 14 | Lucide Icons | Tailwind CSS | Framer Motion
-
-
-
+---
 
 ### 🎉 MBM Azure - Premium Event Booking Suite
 [![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://event-booking-phi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
-
 
 ✨ **Enterprise-Grade Features:**
 - **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
@@ -134,33 +130,8 @@ https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github
 - **Database Design**: Efficient MongoDB schemas with indexing
 - **API Security**: Rate limiting and input validation
 
-🛠️ **Full Stack Architecture**:
-
 ---
 
-### Other Notable Projects
-
-#### 🎓 College Event Manager Pro
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-0077B5?style=for-the-badge)](https://event-mang-app.vercel.app/)
-- **Automated Workflows**: Email reminders and approval processes
-- **QR Code Check-in**: Streamlined event attendance tracking
-- **Budget Management**: Expense tracking and reporting
-
-#### 🏆 Spardha 25 - Sports Tournament Platform
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-FF6C37?style=for-the-badge)](https://spardha-25.vercel.app/)
-- **Live Scoring**: Real-time updates with Socket.io
-- **Team Portals**: Dedicated dashboards for each team
-- **Media Gallery**: Photo/video sharing system
-
-#### 💬 ChatSphere - Realtime Messaging
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-4285F4?style=for-the-badge)](https://chatapp-mqcy.onrender.com/)
-- **End-to-End Encryption**: Secure message transport
-- **File Sharing**: Document and image uploads
-- **Message Search**: Historical conversation indexing
-
----
-
-## 📬 Let's Build Something Amazing Together!
 ## 💡 Let's Collaborate!
 
 I'm always open to:
@@ -169,7 +140,6 @@ I'm always open to:
 - 🎤 **Tech talks & workshops** - Can speak about modern web development
 - 📝 **Technical writing** - Guest posts and tutorials
 
-[![Let's Chat](https://img.shields.io/badge/Let's_Chat-FF6C37?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 <div align="center">
   <a href="https://github.com/Saadmehmood1234">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -182,9 +152,6 @@ I'm always open to:
   </a>
   <a href="https://portfo-tan-eta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
@@ -204,4 +171,5 @@ I'm always open to:
 [![Metrics](https://github.com/Saadmehmood1234/Saadmehmood1234/blob/main/github-metrics.svg)](https://github.com/Saadmehmood1234)
 
 </div>
+
 ⭐ From [Saad Mehmood](https://github.com/Saadmehmood1234) | Keep Coding, Keep Innovating! 🚀
