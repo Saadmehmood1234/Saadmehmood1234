@@ -78,6 +78,43 @@
 
 ---
 
+🎨 Modern Creative Agency Website
+https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github
+
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5uY2VxY2M3dXJ0Z3ZqYzV6dGZ5Z2xqYzZ4eHp1bGJmNHV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ZJBBG2spVDFyL9Qjq/giphy.gif" width="600" alt="Agency Website Demo"/> </div>
+✨ Key Highlights:
+
+🌓 Dark/Light Mode: Seamless theme switching with persistent preference
+
+✨ Micro-Interactions: 60+ subtle animations for premium feel
+
+📱 Responsive Magic: Flawless adaptation from mobile to 4K displays
+
+🚀 Instant Loads: 95/100 Lighthouse performance with Next.js optimization
+
+🛠️ Tech Stack: Next.js 14 | Framer Motion | Tailwind CSS | Shadcn UI
+
+✍️ Arabic Calligraphy Showcase
+https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github
+
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V0b3VjZ2J6dGJ6bW5qZ2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J3o8PcYFnqU3JhQKjN/giphy.gif" width="600" alt="Calligraphy Website Demo"/> </div>
+✨ Special Features:
+
+🖋️ Interactive Cards: Hover animations reveal calligraphy details
+
+🌙 Thematic Design: Elegant emerald & gold Islamic art aesthetic
+
+📖 Quranic Focus: Special tagging system for religious verses
+
+📲 Touch Optimized: Perfect swipe experience on mobile devices
+
+🛠️ Tech Stack: Next.js 14 | Lucide Icons | Tailwind CSS | Framer Motion
+
+
+
+
 ### 🎉 MBM Azure - Premium Event Booking Suite
 [![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://event-booking-phi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
