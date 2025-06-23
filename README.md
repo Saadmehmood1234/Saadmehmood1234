@@ -79,7 +79,7 @@
 ---
 
 ### 🎉 MBM Azure - Premium Event Booking Suite
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://mbm-azure.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)(https://event-booking-phi.vercel.app/)}
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
 
 
