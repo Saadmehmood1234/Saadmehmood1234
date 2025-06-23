@@ -84,9 +84,6 @@
 
 > 🔍 *If you see "content not available", please refresh or try in incognito mode - the backend might be sleeping!*
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ5cWJ6d3l4dW1sY2V1ZzN5bHh5a3VxN2R6eGZ1b2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKHw1qXzY9/giphy.gif" width="600" alt="MBM Azure Demo"/>
-</div>
 
 ✨ **Enterprise-Grade Features:**
 - **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
