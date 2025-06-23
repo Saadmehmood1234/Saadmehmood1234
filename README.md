@@ -82,8 +82,6 @@
 [![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://mbm-azure.vercel.app/)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
 
-> 🔍 *If you see "content not available", please refresh or try in incognito mode - the backend might be sleeping!*
-
 
 ✨ **Enterprise-Grade Features:**
 - **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
