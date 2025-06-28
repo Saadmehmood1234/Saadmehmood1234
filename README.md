@@ -164,8 +164,7 @@
 # 📝 Modern Notes App with AI Integration  
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://notes-app-sable-kappa.vercel.app/)  
-![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=flat)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+
 
 A sleek, AI-powered notes application with real-time sync, customizable themes, and intuitive search. Built for productivity with a focus on speed and offline accessibility.  
 
@@ -182,8 +181,7 @@ A sleek, AI-powered notes application with real-time sync, customizable themes, 
 
 # 🕒 Smart Time Table Management System  
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://time-table-management-jet.vercel.app/)  
-![React](https://img.shields.io/badge/React-18-blue?logo=react)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+ 
 
 A dynamic timetable generator for educational institutions with real-time updates, multi-course support, and conflict detection.  
 
@@ -203,6 +201,70 @@ A dynamic timetable generator for educational institutions with real-time update
 
 - **🎨 Print-Friendly**  
   Optimized CSS for clean timetable printing.  
+
+---
+# 💳 PrimeFlix - Premium Subscription Marketplace  
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://www.primeflix.site/)  
+  
+
+**Access premium services (Netflix, Spotify, Adobe CC, etc.) at 50-80% discount** through verified shared family plans.  
+
+
+---
+
+## ✨ Why Choose PrimeFlix?  
+
+- **💰 Massive Savings**  
+  Legitimate shared accounts for platforms like:  
+  - Streaming (Netflix Premium **$4.99/mo** vs $22.99 retail)  
+  - Music (Spotify Family **$2.50/mo**)  
+  - Creative Tools (Adobe CC **$9.99/mo**)  
+
+- **⚡ Instant Delivery**  
+  Automated account credentials delivery post-payment  
+
+- 🔒 **Compliant Sharing**  
+  Fully adheres to providers' family plan terms  
+
+- 📱 **Unified Dashboard**  
+  Manage all subscriptions in one place with renewal alerts  
+
+---
+
+## 🛠️ Tech Stack  
+
+| Component          | Technology Used                  |
+|--------------------|----------------------------------|
+| Frontend           | Next.js 14 + TypeScript          |
+| Styling            | Tailwind CSS                     |           |
+| Authentication     | Next Auth                    |
+| Backend            | Node.js                |
+| Database           | MongoDB (User/Subscription Data) |  
+
+---
+
+## 🚀 How It Works  
+
+1. **Browse** 100+ discounted subscriptions  
+2. **Select** your plan (Monthly/Annual)  
+3. **Receive** credentials instantly  
+4. **Manage** in your personal dashboard  
+
+---
+
+## 🛡️ Trust & Safety  
+
+✔ **Fraud Prevention**  
+- IP-based access monitoring  
+- Purchase velocity checks  
+
+✔ **Uptime**  
+- 99.95% SLA guarantee  
+- Automated failover systems  
+
+✔ **Support**  
+- 24/7 live chat  
+- 2-hour refund policy  
 
 ---
 
