@@ -169,8 +169,6 @@
 
 A sleek, AI-powered notes application with real-time sync, customizable themes, and intuitive search. Built for productivity with a focus on speed and offline accessibility.  
 
-![Notes App Preview](https://via.placeholder.com/800x500/2D3748/FFFFFF?text=Notes+App+Demo) *(Replace with actual screenshot)*  
-
 
 ## 🛠️ Tech Stack  
 
@@ -179,6 +177,36 @@ A sleek, AI-powered notes application with real-time sync, customizable themes, 
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)  
 - **Deployment**: [Vercel](https://vercel.com/)  
+
+---
+
+# 🕒 Smart Time Table Management System  
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://time-table-management-jet.vercel.app/)  
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+
+A dynamic timetable generator for educational institutions with real-time updates, multi-course support, and conflict detection.  
+
+![Timetable Preview](https://via.placeholder.com/800x500/1E40AF/FFFFFF?text=BCA+Sem+5+Timetable) *(Replace with actual screenshot)*  
+
+---
+
+## ✨ Key Features  
+
+- **🎯 Course/Year Filtering**  
+  Instantly switch between programs (e.g., BCA/BBA) and semesters with URL persistence (`?course=BCA&sem=5`)  
+
+- **🚦 Conflict Detection**  
+  Visual alerts for overlapping classes or room double-booking.  
+
+- **📲 PWA Ready**  
+  Installable as a mobile app with offline caching of schedules.  
+
+- **🔄 Real-Time Sync**  
+  Firebase-powered updates for administrators and students.  
+
+- **🎨 Print-Friendly**  
+  Optimized CSS for clean timetable printing.  
 
 ---
 
