@@ -137,7 +137,37 @@
 - **File Sharing**: Document and image uploads
 - **Message Search**: Historical conversation indexing
 
+### 🏎️ JavaScript Car Racing Game
+[![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://saadmehmood1234.github.io/car-racing/)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/car-racing)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2d3F1eWZ2dGJ6bW5qZ2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Ieu6zWXeO7JFPJt9E/giphy.gif" width="600" alt="Car Racing Game Demo"/>
+</div>
+
+✨ **Game Features:**
+- 🚦 **Obstacle Avoidance**: Dodge incoming traffic cars with precise controls
+- ⏱️ **Score System**: Earn points for every successful pass
+- 💥 **Collision Detection**: Realistic crash physics and game over sequence
+- 🎮 **Keyboard Controls**: Intuitive arrow key controls for smooth gameplay
+- 🌟 **Retro Aesthetic**: Classic arcade-style visuals with modern performance
+
+⚡ **Technical Highlights:**
+- **Pure JavaScript**: No frameworks or libraries - built from scratch
+- **Canvas Rendering**: Optimized 2D rendering for smooth animations
+- **Object-Oriented Design**: Clean code architecture with reusable components
+- **Responsive Design**: Adapts to different screen sizes
+
+🛠️ **Tech Stack**: 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+🎯 **Learning Outcomes:**
+- Mastered core game development concepts
+- Implemented game loops and state management
+- Developed collision detection algorithms
+- Optimized performance for 60fps gameplay
 
 ## 💡 Let's Collaborate!
 
