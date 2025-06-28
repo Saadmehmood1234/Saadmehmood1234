@@ -187,7 +187,6 @@ A sleek, AI-powered notes application with real-time sync, customizable themes, 
 
 A dynamic timetable generator for educational institutions with real-time updates, multi-course support, and conflict detection.  
 
-![Timetable Preview](https://via.placeholder.com/800x500/1E40AF/FFFFFF?text=BCA+Sem+5+Timetable) *(Replace with actual screenshot)*  
 
 ---
 
@@ -197,13 +196,10 @@ A dynamic timetable generator for educational institutions with real-time update
   Instantly switch between programs (e.g., BCA/BBA) and semesters with URL persistence (`?course=BCA&sem=5`)  
 
 - **🚦 Conflict Detection**  
-  Visual alerts for overlapping classes or room double-booking.  
-
-- **📲 PWA Ready**  
-  Installable as a mobile app with offline caching of schedules.  
+  Visual alerts for overlapping classes.    
 
 - **🔄 Real-Time Sync**  
-  Firebase-powered updates for administrators and students.  
+  mongodb-altas for real time cloud storage.  
 
 - **🎨 Print-Friendly**  
   Optimized CSS for clean timetable printing.  
