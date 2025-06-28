@@ -55,14 +55,11 @@
 </div>
 
 ---
-
+## 🚀 Featured Projects
 ### 🎮 Ultimate Tic Tac Toe Experience
 [![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=gamejolt&logoColor=white)](https://tic-toe-game-gules.vercel.app/)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/tic-toe-game)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ5cWJ6d3l4dW1sY2V1ZzN5bHh5a3VxN2R6eGZ1b2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" alt="Tic Tac Toe Demo"/>
-</div>
 
 ✨ **Why it's special:**
 - 🎨 **Theme Customization**: Switch between 8 vibrant color schemes
@@ -78,9 +75,6 @@
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://agency-one-kappa.vercel.app/)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/agency-website)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5uY2VxY2M3dXJ0Z3ZqYzV6dGZ5Z2xqYzZ4eHp1bGJmNHV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ZJBBG2spVDFyL9Qjq/giphy.gif" width="600" alt="Agency Website Demo"/>
-</div>
 
 ✨ **Key Highlights:**
 - 🌓 **Dark/Light Mode**: Seamless theme switching with persistent preference
@@ -95,10 +89,6 @@
 ### ✍️ Arabic Calligraphy Showcase
 [![Live Demo](https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://calligraphy-three.vercel.app/)
 [![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/calligraphy-website)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V0b3VjZ2J6dGJ6bW5qZ2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J3o8PcYFnqU3JhQKjN/giphy.gif" width="600" alt="Calligraphy Website Demo"/>
-</div>
 
 ✨ **Special Features:**
 - 🖋️ **Interactive Cards**: Hover animations reveal calligraphy details
@@ -146,7 +136,7 @@
 - **End-to-End Encryption**: Secure message transport
 - **File Sharing**: Document and image uploads
 - **Message Search**: Historical conversation indexing
-## 🚀 Featured Projects
+
 
 
 ## 💡 Let's Collaborate!
