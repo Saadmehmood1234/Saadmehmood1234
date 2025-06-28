@@ -161,6 +161,27 @@
 - Developed collision detection algorithms
 - Optimized performance for 60fps gameplay
 
+# 📝 Modern Notes App with AI Integration  
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://notes-app-sable-kappa.vercel.app/)  
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=flat)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+
+A sleek, AI-powered notes application with real-time sync, customizable themes, and intuitive search. Built for productivity with a focus on speed and offline accessibility.  
+
+![Notes App Preview](https://via.placeholder.com/800x500/2D3748/FFFFFF?text=Notes+App+Demo) *(Replace with actual screenshot)*  
+
+
+## 🛠️ Tech Stack  
+
+- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)  
+- **Database**: [mongodb](https://mongodb.com/)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)  
+- **Deployment**: [Vercel](https://vercel.com/)  
+
+---
+
 ## 💡 Let's Collaborate!
 
 I'm always open to:
