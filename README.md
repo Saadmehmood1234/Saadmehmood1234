@@ -55,24 +55,6 @@
 </div>
 
 ---
-#### 🎓 College Event Manager Pro
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-0077B5?style=for-the-badge)](https://event-mang-app.vercel.app/)
-- **Automated Workflows**: Email reminders and approval processes
-- **QR Code Check-in**: Streamlined event attendance tracking
-- **Budget Management**: Expense tracking and reporting
-
-#### 🏆 Spardha 25 - Sports Tournament Platform
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-FF6C37?style=for-the-badge)](https://spardha-25.vercel.app/)
-- **Live Scoring**: Real-time updates with Socket.io
-- **Team Portals**: Dedicated dashboards for each team
-- **Media Gallery**: Photo/video sharing system
-
-#### 💬 ChatSphere - Realtime Messaging
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-4285F4?style=for-the-badge)](https://chatapp-mqcy.onrender.com/)
-- **End-to-End Encryption**: Secure message transport
-- **File Sharing**: Document and image uploads
-- **Message Search**: Historical conversation indexing
-## 🚀 Featured Projects
 
 ### 🎮 Ultimate Tic Tac Toe Experience
 [![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=gamejolt&logoColor=white)](https://tic-toe-game-gules.vercel.app/)
@@ -147,6 +129,25 @@
 - **API Security**: Rate limiting and input validation
 
 ---
+#### 🎓 College Event Manager Pro
+[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-0077B5?style=for-the-badge)](https://event-mang-app.vercel.app/)
+- **Automated Workflows**: Email reminders and approval processes
+- **QR Code Check-in**: Streamlined event attendance tracking
+- **Budget Management**: Expense tracking and reporting
+
+#### 🏆 Spardha 25 - Sports Tournament Platform
+[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-FF6C37?style=for-the-badge)](https://spardha-25.vercel.app/)
+- **Live Scoring**: Real-time updates with Socket.io
+- **Team Portals**: Dedicated dashboards for each team
+- **Media Gallery**: Photo/video sharing system
+
+#### 💬 ChatSphere - Realtime Messaging
+[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-4285F4?style=for-the-badge)](https://chatapp-mqcy.onrender.com/)
+- **End-to-End Encryption**: Secure message transport
+- **File Sharing**: Document and image uploads
+- **Message Search**: Historical conversation indexing
+## 🚀 Featured Projects
+
 
 ## 💡 Let's Collaborate!
 
