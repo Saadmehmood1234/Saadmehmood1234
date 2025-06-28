@@ -58,7 +58,6 @@
 ## 🚀 Featured Projects
 ### 🎮 Ultimate Tic Tac Toe Experience
 [![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=gamejolt&logoColor=white)](https://tic-toe-game-gules.vercel.app/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/tic-toe-game)
 
 
 ✨ **Why it's special:**
@@ -73,7 +72,6 @@
 
 ### 🎨 Modern Creative Agency Website
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://agency-one-kappa.vercel.app/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/agency-website)
 
 
 ✨ **Key Highlights:**
@@ -88,7 +86,6 @@
 
 ### ✍️ Arabic Calligraphy Showcase
 [![Live Demo](https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://calligraphy-three.vercel.app/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/calligraphy-website)
 
 ✨ **Special Features:**
 - 🖋️ **Interactive Cards**: Hover animations reveal calligraphy details
@@ -102,7 +99,6 @@
 
 ### 🎉 MBM Azure - Premium Event Booking Suite
 [![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://event-booking-phi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/mbm)
 
 ✨ **Enterprise-Grade Features:**
 - **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
@@ -139,11 +135,7 @@
 
 ### 🏎️ JavaScript Car Racing Game
 [![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://saadmehmood1234.github.io/car-racing/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/Saadmehmood1234/car-racing)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2d3F1eWZ2dGJ6bW5qZ2VjZ2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Ieu6zWXeO7JFPJt9E/giphy.gif" width="600" alt="Car Racing Game Demo"/>
-</div>
 
 ✨ **Game Features:**
 - 🚦 **Obstacle Avoidance**: Dodge incoming traffic cars with precise controls
