@@ -1,7 +1,7 @@
 # 🌟 Hi there, I'm Saad Mehmood! 
 
 ### 🚀 Full Stack Developer & Tech Enthusiast
-🎓 Pursuing **BCA** @ [Don Bosco Institute of Technology](https://www.dbit.in/)  
+🎓 **BCA** @ [Don Bosco Institute of Technology](https://www.dbit.in/)  
 💡 Building **impactful solutions** with modern web technologies  
 🌱 Currently mastering **Next.js 14** & **TypeScript** ecosystem  
 🔥 Passionate about **open-source** and **developer communities**
