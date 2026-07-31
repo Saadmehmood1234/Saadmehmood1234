@@ -54,67 +54,76 @@
 
 </div>
 
----
 ## 🚀 Featured Projects
-### 🎮 Ultimate Tic Tac Toe Experience
-[![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=gamejolt&logoColor=white)](https://tic-toe-game-gules.vercel.app/)
 
 
-✨ **Why it's special:**
-- 🎨 **Theme Customization**: Switch between 8 vibrant color schemes
-- 📱 **Mobile-First**: Buttery smooth animations on all devices
-- 🏆 **Win Tracking**: Persistent game history with local storage
-- ⚡ **Blazing Fast**: 100/100 Lighthouse performance score
+---
+# 💳 PrimeFlix - Premium Subscription Marketplace  
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://www.primeflix.site/)  
+  
 
-🛠️ **Tech Stack**: Next.js 14 | TypeScript | Tailwind CSS | Framer Motion
+**Access premium services (Netflix, Spotify, Adobe CC, etc.) at 50-80% discount** through verified shared family plans.  
+
 
 ---
 
-### 🎨 Modern Creative Agency Website
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://agency-one-kappa.vercel.app/)
+## ✨ Why Choose PrimeFlix?  
 
+- **💰 Massive Savings**  
+  Legitimate shared accounts for platforms like:  
+  - Streaming (Netflix Premium **$4.99/mo** vs $22.99 retail)  
+  - Music (Spotify Family **$2.50/mo**)  
+  - Creative Tools (Adobe CC **$9.99/mo**)  
 
-✨ **Key Highlights:**
-- 🌓 **Dark/Light Mode**: Seamless theme switching with persistent preference
-- ✨ **Micro-Interactions**: 60+ subtle animations for premium feel
-- 📱 **Responsive Magic**: Flawless adaptation from mobile to 4K displays
-- 🚀 **Instant Loads**: 95/100 Lighthouse performance with Next.js optimization
+- **⚡ Instant Delivery**  
+  Automated account credentials delivery post-payment  
 
-🛠️ **Tech Stack**: Next.js 14 | Framer Motion | Tailwind CSS | Shadcn UI
+- 🔒 **Compliant Sharing**  
+  Fully adheres to providers' family plan terms  
 
----
-
-### ✍️ Arabic Calligraphy Showcase
-[![Live Demo](https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://calligraphy-three.vercel.app/)
-
-✨ **Special Features:**
-- 🖋️ **Interactive Cards**: Hover animations reveal calligraphy details
-- 🌙 **Thematic Design**: Elegant emerald & gold Islamic art aesthetic
-- 📖 **Quranic Focus**: Special tagging system for religious verses
-- 📲 **Touch Optimized**: Perfect swipe experience on mobile devices
-
-🛠️ **Tech Stack**: Next.js 14 | Lucide Icons | Tailwind CSS | Framer Motion
+- 📱 **Unified Dashboard**  
+  Manage all subscriptions in one place with renewal alerts  
 
 ---
 
-### 🎉 MBM Azure - Premium Event Booking Suite
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://event-booking-phi.vercel.app/)
+## 🛠️ Tech Stack  
 
-✨ **Enterprise-Grade Features:**
-- **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
-- **🔐 Secure Authentication**: JWT with NextAuth.js and role-based permissions
-- **📈 Real-time Analytics**: Track bookings, revenue, and customer trends
-- **📱 PWA Support**: Installable app with offline capabilities
-- **💬 Integrated Messaging**: Direct communication between clients and staff
-- **📅 Calendar Sync**: Google Calendar integration for scheduling
-
-🚀 **Technical Highlights**:
-- **Optimized Performance**: Lazy loading + image optimization
-- **CI/CD Pipeline**: Automated testing and deployment
-- **Database Design**: Efficient MongoDB schemas with indexing
-- **API Security**: Rate limiting and input validation
+| Component          | Technology Used                  |
+|--------------------|----------------------------------|
+| Frontend           | Next.js 14 + TypeScript          |
+| Styling            | Tailwind CSS                     |           |
+| Authentication     | Next Auth                    |
+| Backend            | Node.js                |
+| Database           | MongoDB (User/Subscription Data) |  
 
 ---
+
+## 🚀 How It Works  
+
+1. **Browse** 100+ discounted subscriptions  
+2. **Select** your plan (Monthly/Annual)  
+3. **Receive** credentials instantly  
+4. **Manage** in your personal dashboard  
+
+---
+
+## 🛡️ Trust & Safety  
+
+✔ **Fraud Prevention**  
+- IP-based access monitoring  
+- Purchase velocity checks  
+
+✔ **Uptime**  
+- 99.95% SLA guarantee  
+- Automated failover systems  
+
+✔ **Support**  
+- 24/7 live chat  
+- 2-hour refund policy  
+
+---
+---
+
 #### 🎓 College Event Manager Pro
 [![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-0077B5?style=for-the-badge)](https://event-mang-app.vercel.app/)
 - **Automated Workflows**: Email reminders and approval processes
@@ -202,72 +211,67 @@ A dynamic timetable generator for educational institutions with real-time update
 - **🎨 Print-Friendly**  
   Optimized CSS for clean timetable printing.  
 
----
-# 💳 PrimeFlix - Premium Subscription Marketplace  
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://www.primeflix.site/)  
-  
-
-**Access premium services (Netflix, Spotify, Adobe CC, etc.) at 50-80% discount** through verified shared family plans.  
-
 
 ---
+### 🎮 Ultimate Tic Tac Toe Experience
+[![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=gamejolt&logoColor=white)](https://tic-toe-game-gules.vercel.app/)
 
-## ✨ Why Choose PrimeFlix?  
 
-- **💰 Massive Savings**  
-  Legitimate shared accounts for platforms like:  
-  - Streaming (Netflix Premium **$4.99/mo** vs $22.99 retail)  
-  - Music (Spotify Family **$2.50/mo**)  
-  - Creative Tools (Adobe CC **$9.99/mo**)  
+✨ **Why it's special:**
+- 🎨 **Theme Customization**: Switch between 8 vibrant color schemes
+- 📱 **Mobile-First**: Buttery smooth animations on all devices
+- 🏆 **Win Tracking**: Persistent game history with local storage
+- ⚡ **Blazing Fast**: 100/100 Lighthouse performance score
 
-- **⚡ Instant Delivery**  
-  Automated account credentials delivery post-payment  
-
-- 🔒 **Compliant Sharing**  
-  Fully adheres to providers' family plan terms  
-
-- 📱 **Unified Dashboard**  
-  Manage all subscriptions in one place with renewal alerts  
+🛠️ **Tech Stack**: Next.js 14 | TypeScript | Tailwind CSS | Framer Motion
 
 ---
 
-## 🛠️ Tech Stack  
+### 🎨 Modern Creative Agency Website
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://agency-one-kappa.vercel.app/)
 
-| Component          | Technology Used                  |
-|--------------------|----------------------------------|
-| Frontend           | Next.js 14 + TypeScript          |
-| Styling            | Tailwind CSS                     |           |
-| Authentication     | Next Auth                    |
-| Backend            | Node.js                |
-| Database           | MongoDB (User/Subscription Data) |  
 
----
+✨ **Key Highlights:**
+- 🌓 **Dark/Light Mode**: Seamless theme switching with persistent preference
+- ✨ **Micro-Interactions**: 60+ subtle animations for premium feel
+- 📱 **Responsive Magic**: Flawless adaptation from mobile to 4K displays
+- 🚀 **Instant Loads**: 95/100 Lighthouse performance with Next.js optimization
 
-## 🚀 How It Works  
-
-1. **Browse** 100+ discounted subscriptions  
-2. **Select** your plan (Monthly/Annual)  
-3. **Receive** credentials instantly  
-4. **Manage** in your personal dashboard  
+🛠️ **Tech Stack**: Next.js 14 | Framer Motion | Tailwind CSS | Shadcn UI
 
 ---
 
-## 🛡️ Trust & Safety  
+### ✍️ Arabic Calligraphy Showcase
+[![Live Demo](https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://calligraphy-three.vercel.app/)
 
-✔ **Fraud Prevention**  
-- IP-based access monitoring  
-- Purchase velocity checks  
+✨ **Special Features:**
+- 🖋️ **Interactive Cards**: Hover animations reveal calligraphy details
+- 🌙 **Thematic Design**: Elegant emerald & gold Islamic art aesthetic
+- 📖 **Quranic Focus**: Special tagging system for religious verses
+- 📲 **Touch Optimized**: Perfect swipe experience on mobile devices
 
-✔ **Uptime**  
-- 99.95% SLA guarantee  
-- Automated failover systems  
-
-✔ **Support**  
-- 24/7 live chat  
-- 2-hour refund policy  
+🛠️ **Tech Stack**: Next.js 14 | Lucide Icons | Tailwind CSS | Framer Motion
 
 ---
 
+### 🎉 MBM Azure - Premium Event Booking Suite
+[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://event-booking-phi.vercel.app/)
+
+✨ **Enterprise-Grade Features:**
+- **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
+- **🔐 Secure Authentication**: JWT with NextAuth.js and role-based permissions
+- **📈 Real-time Analytics**: Track bookings, revenue, and customer trends
+- **📱 PWA Support**: Installable app with offline capabilities
+- **💬 Integrated Messaging**: Direct communication between clients and staff
+- **📅 Calendar Sync**: Google Calendar integration for scheduling
+
+🚀 **Technical Highlights**:
+- **Optimized Performance**: Lazy loading + image optimization
+- **CI/CD Pipeline**: Automated testing and deployment
+- **Database Design**: Efficient MongoDB schemas with indexing
+- **API Security**: Rate limiting and input validation
+
+---
 ## 💡 Let's Collaborate!
 
 I'm always open to:
