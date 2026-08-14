@@ -122,97 +122,36 @@
 - 2-hour refund policy  
 
 ---
----
 
-#### 🎓 College Event Manager Pro
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-0077B5?style=for-the-badge)](https://event-mang-app.vercel.app/)
-- **Automated Workflows**: Email reminders and approval processes
-- **QR Code Check-in**: Streamlined event attendance tracking
-- **Budget Management**: Expense tracking and reporting
+# 📊 Accounting & Inventory SaaS
 
-#### 🏆 Spardha 25 - Sports Tournament Platform
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-FF6C37?style=for-the-badge)](https://spardha-25.vercel.app/)
-- **Live Scoring**: Real-time updates with Socket.io
-- **Team Portals**: Dedicated dashboards for each team
-- **Media Gallery**: Photo/video sharing system
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge\&logo=vercel\&logoColor=white)](https://acc-inv-app.vercel.app/)
 
-#### 💬 ChatSphere - Realtime Messaging
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-4285F4?style=for-the-badge)](https://chatapp-mqcy.onrender.com/)
-- **End-to-End Encryption**: Secure message transport
-- **File Sharing**: Document and image uploads
-- **Message Search**: Historical conversation indexing
+A **multi-tenant Accounting & Inventory SaaS** for managing finances, inventory, organizations, branches, users, and business operations from a centralized platform.
 
-### 🏎️ JavaScript Car Racing Game
-[![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://saadmehmood1234.github.io/car-racing/)
+> 🚧 **Currently under active development**
 
+### ✨ Key Features
 
-✨ **Game Features:**
-- 🚦 **Obstacle Avoidance**: Dodge incoming traffic cars with precise controls
-- ⏱️ **Score System**: Earn points for every successful pass
-- 💥 **Collision Detection**: Realistic crash physics and game over sequence
-- 🎮 **Keyboard Controls**: Intuitive arrow key controls for smooth gameplay
-- 🌟 **Retro Aesthetic**: Classic arcade-style visuals with modern performance
+* 📊 Accounting, journal entries & financial transactions
+* 📦 Inventory, products & stock management
+* 🏢 Multi-organization & multi-branch architecture
+* 👥 Role-Based Access Control (RBAC)
+* 🔐 JWT authentication, MFA & audit logging
+* 💳 Organization onboarding, subscriptions & billing
+* ⚡ Redis caching & scalable REST APIs
 
-⚡ **Technical Highlights:**
-- **Pure JavaScript**: No frameworks or libraries - built from scratch
-- **Canvas Rendering**: Optimized 2D rendering for smooth animations
-- **Object-Oriented Design**: Clean code architecture with reusable components
-- **Responsive Design**: Adapts to different screen sizes
+### 🛠️ Tech Stack
 
-🛠️ **Tech Stack**: 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend:** Next.js • TypeScript • Tailwind CSS
+**Backend:** Go • Gin • PostgreSQL • Redis
+**Security:** JWT • Argon2id • MFA/TOTP
+**Deployment:** Vercel • VPS
 
-🎯 **Learning Outcomes:**
-- Mastered core game development concepts
-- Implemented game loops and state management
-- Developed collision detection algorithms
-- Optimized performance for 60fps gameplay
-
-# 📝 Modern Notes App with AI Integration  
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://notes-app-sable-kappa.vercel.app/)  
-
-
-A sleek, AI-powered notes application with real-time sync, customizable themes, and intuitive search. Built for productivity with a focus on speed and offline accessibility.  
-
-
-## 🛠️ Tech Stack  
-
-- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)  
-- **Database**: [mongodb](https://mongodb.com/)  
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)  
-- **Deployment**: [Vercel](https://vercel.com/)  
+🌐 **[Live Application](https://acc-inv-app.vercel.app/)**
 
 ---
 
-# 🕒 Smart Time Table Management System  
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://time-table-management-jet.vercel.app/)  
- 
-
-A dynamic timetable generator for educational institutions with real-time updates, multi-course support, and conflict detection.  
-
-
----
-
-## ✨ Key Features  
-
-- **🎯 Course/Year Filtering**  
-  Instantly switch between programs (e.g., BCA/BBA) and semesters with URL persistence (`?course=BCA&sem=5`)  
-
-- **🚦 Conflict Detection**  
-  Visual alerts for overlapping classes.    
-
-- **🔄 Real-Time Sync**  
-  mongodb-altas for real time cloud storage.  
-
-- **🎨 Print-Friendly**  
-  Optimized CSS for clean timetable printing.  
-
-
----
 ### 🎮 Ultimate Tic Tac Toe Experience
 [![Live Demo](https://img.shields.io/badge/PLAY_NOW-00C853?style=for-the-badge&logo=gamejolt&logoColor=white)](https://tic-toe-game-gules.vercel.app/)
 
@@ -241,35 +180,6 @@ A dynamic timetable generator for educational institutions with real-time update
 
 ---
 
-### ✍️ Arabic Calligraphy Showcase
-[![Live Demo](https://img.shields.io/badge/VIEW_GALLERY-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://calligraphy-three.vercel.app/)
-
-✨ **Special Features:**
-- 🖋️ **Interactive Cards**: Hover animations reveal calligraphy details
-- 🌙 **Thematic Design**: Elegant emerald & gold Islamic art aesthetic
-- 📖 **Quranic Focus**: Special tagging system for religious verses
-- 📲 **Touch Optimized**: Perfect swipe experience on mobile devices
-
-🛠️ **Tech Stack**: Next.js 14 | Lucide Icons | Tailwind CSS | Framer Motion
-
----
-
-### 🎉 MBM Azure - Premium Event Booking Suite
-[![Live Demo](https://img.shields.io/badge/EXPLORE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://event-booking-phi.vercel.app/)
-
-✨ **Enterprise-Grade Features:**
-- **🏛️ Multi-Venue Management**: Handle weddings, corporate events, and social gatherings
-- **🔐 Secure Authentication**: JWT with NextAuth.js and role-based permissions
-- **📈 Real-time Analytics**: Track bookings, revenue, and customer trends
-- **📱 PWA Support**: Installable app with offline capabilities
-- **💬 Integrated Messaging**: Direct communication between clients and staff
-- **📅 Calendar Sync**: Google Calendar integration for scheduling
-
-🚀 **Technical Highlights**:
-- **Optimized Performance**: Lazy loading + image optimization
-- **CI/CD Pipeline**: Automated testing and deployment
-- **Database Design**: Efficient MongoDB schemas with indexing
-- **API Security**: Rate limiting and input validation
 
 ---
 ## 💡 Let's Collaborate!
